@@ -24,23 +24,23 @@ from .task8_pageindex_vectorless import pageindex_search
 
 load_dotenv()
 
-# Giá trị cuối cùng lấy từ SCORE_THRESHOLD trong .env sau khi calibrate
-# (python -m src.task9_retrieval_pipeline); 0.3 chỉ là mặc định tạm.
-SCORE_THRESHOLD = float(os.getenv("SCORE_THRESHOLD") or 0.3)
+# Calibrate (python -m src.task9_retrieval_pipeline, gemini-embedding-001):
+# min in-domain 0.779, max out-of-domain 0.682 -> điểm giữa 0.73.
+SCORE_THRESHOLD = float(os.getenv("SCORE_THRESHOLD") or 0.73)
 DEFAULT_TOP_K = 5
 
-# Câu hỏi mẫu để calibrate threshold — thay bằng câu hỏi theo corpus của nhóm.
+# Câu hỏi calibrate threshold cho domain du lịch văn hóa ẩm thực Hà Nội.
 IN_DOMAIN_QUERIES = [
-    "Học phí một tín chỉ là bao nhiêu?",
-    "Điều kiện để được xét học bổng khuyến khích học tập?",
-    "Sinh viên đăng ký ở ký túc xá như thế nào?",
-    "Thư viện mở cửa vào những giờ nào?",
-    "Thời hạn đăng ký học phần là khi nào?",
+    "Những yếu tố nào ảnh hưởng đến phát triển du lịch ẩm thực đường phố tại Hà Nội?",
+    "Văn hóa ẩm thực Hà Nội thu hút khách du lịch như thế nào?",
+    "Món ăn đường phố nào nên thử khi đến Hà Nội?",
+    "Du lịch ẩm thực Hà Nội còn những hạn chế gì?",
+    "Trải nghiệm du lịch nào đáng thử ở Hà Nội?",
 ]
 OUT_OF_DOMAIN_QUERIES = [
-    "Thời tiết Hà Nội ngày mai thế nào?",
-    "Cách nấu phở bò ngon?",
     "Giá vàng hôm nay bao nhiêu?",
+    "Cách sửa máy tính không khởi động được?",
+    "Lãi suất vay mua nhà ngân hàng nào thấp nhất?",
 ]
 
 

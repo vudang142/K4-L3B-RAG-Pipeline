@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Những yếu tố nào ảnh hưởng đến phát triển du lịch ẩm thực đường phố tại Hà Nội, xếp theo mức độ ảnh hưởng từ cao đến thấp?",
+    "expected_answer": "Có 6 yếu tố, theo thứ tự giảm dần: Quảng bá; Vệ sinh an toàn thực phẩm; Văn hóa ẩm thực địa phương; Nguồn nhân lực chế biến và phục vụ; Điều kiện vật chất; Giá cả.",
+    "expected_context": "6 yếu tố theo mức độ từ cao tới thấp có ảnh hưởng trực tiếp đến phát triển du lịch ẩm thực đường phố tại TP. Hà Nội gồm: Quảng bá; Vệ sinh an toàn thực phẩm; Văn hóa ẩm thực địa phương; Nguồn nhân lực chế biến và phục vụ; Điều kiện vật chất; Giá cả. (MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md)",
+    "difficulty": "easy",
+    "source": "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md"
+  },
+  {
+    "question": "Nghiên cứu về các yếu tố ảnh hưởng đến du lịch ẩm thực đường phố Hà Nội đã khảo sát bao nhiêu khách du lịch và dùng phần mềm gì để phân tích?",
+    "expected_answer": "Nghiên cứu khảo sát 305 khách du lịch bằng bảng câu hỏi cấu trúc và phân tích dữ liệu bằng phần mềm SPSS 26.",
+    "expected_context": "Data were collected from 305 tourists through a structured questionnaire. The analysis, performed using SPSS 26 software, included Cronbach's Alpha for reliability testing, exploratory factor analysis (EFA), correlation analysis, and linear regression. (MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md)",
+    "difficulty": "easy",
+    "source": "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md"
+  },
+  {
+    "question": "Mô hình hồi quy trong nghiên cứu du lịch ẩm thực đường phố Hà Nội giải thích được bao nhiêu phần trăm sự biến thiên của biến phụ thuộc?",
+    "expected_answer": "Mô hình có R² hiệu chỉnh 0,786, giải thích được 78,6% sự biến thiên của biến phụ thuộc (phát triển du lịch ẩm thực đường phố).",
+    "expected_context": "Kết quả phân tích hồi quy tuyến tính bội dựa trên phương pháp Enter cho thấy mô hình hồi quy tóm tắt có hệ số R2 hiệu chỉnh đạt 0,786, tương ứng với 6 biến độc lập đưa vào mô hình nghiên cứu giải thích được 78,6% sự biến thiên của biến phụ thuộc. (MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md)",
+    "difficulty": "medium",
+    "source": "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md"
+  },
+  {
+    "question": "Vì quảng bá là yếu tố ảnh hưởng lớn nhất, nghiên cứu kiến nghị Sở Du lịch Hà Nội làm gì?",
+    "expected_answer": "Sở Du lịch Hà Nội cần xây dựng chiến lược quảng cáo đa dạng gắn với mạng xã hội như TikTok, Facebook, Instagram hoặc qua ấn phẩm, báo chí du lịch, truyền hình; tạo ứng dụng và trang web cung cấp thông tin, đánh giá, hướng dẫn du khách; tham gia hội chợ ẩm thực, roadshow, lễ hội giao lưu văn hóa ẩm thực.",
+    "expected_context": "Một là, Quảng bá là yếu tố có ảnh hưởng lớn nhất đến sự phát triển du lịch ẩm thực. Do đó, Sở Du lịch Hà Nội cần xây dựng một chiến lược quảng cáo đa dạng, phong phú gắn với sự phát triển của mạng xã hội hiện nay như Tik tok, Facebook, Instagram... hoặc thông qua các ấn phẩm, báo chí du lịch, truyền hình... tạo ra các ứng dụng và trang web cung cấp thông tin chi tiết, đánh giá và hướng dẫn du khách... tham gia các hội chợ ẩm thực, roadshow, các lễ hội giao lưu văn hóa ẩm thực. (MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md)",
+    "difficulty": "medium",
+    "source": "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md"
+  },
+  {
+    "question": "Báo Telegraph xếp Hà Nội ở vị trí nào trong danh sách các thành phố có nền ẩm thực hấp dẫn nhất thế giới?",
+    "expected_answer": "Báo Telegraph (Anh) xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất thế giới.",
+    "expected_context": "Báo Telegraph (Anh) đã xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất thế giới. (Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md)",
+    "difficulty": "easy",
+    "source": "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md"
+  },
+  {
+    "question": "Tổng thống Mỹ Barack Obama đã ăn bún chả ở quán nào tại Hà Nội và vào ngày nào?",
+    "expected_answer": "Ông Obama ăn bún chả tại quán bún chả Hương Liên (đường Lê Văn Hưu, Hai Bà Trưng) vào bữa tối ngày 23/5/2016.",
+    "expected_context": "Bún chả. Đây là món ăn được tổng thống Mỹ Brack Obama dùng làm bữa tối khi đến Việt Nam ngày 23/5/2016, tại quán bún chả Hương Liên (đường Lê Văn Hưu, Hai Bà Trưng). (Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md)",
+    "difficulty": "easy",
+    "source": "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md"
+  },
+  {
+    "question": "Cốm ngon nhất Hà Nội đến từ đâu và có thể chế biến thành những món gì?",
+    "expected_answer": "Cốm ngon nhất là cốm Mễ Trì và cốm làng Vòng; cốm được gói trong lá sen và có thể chế biến thành chè cốm, chả cốm, xôi cốm.",
+    "expected_context": "Cốm. Những hạt cốm xanh non, dẹt, dẻo thơm ngào ngạt được gói cẩn thận trong lá sen có thể chế biến thành chè cốm, chả cốm, xôi cốm... Cốm ngon nhất phải kể đến cốm Mễ Trì, cốm làng Vòng. (Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md)",
+    "difficulty": "easy",
+    "source": "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md"
+  },
+  {
+    "question": "Vì sao văn hóa ẩm thực có vai trò quan trọng trong việc thu hút khách du lịch đến Hà Nội?",
+    "expected_answer": "Qua việc thưởng thức món ăn, du khách hiểu được phong tục, tập quán, lối sống và cách hành xử của nơi đến, tạo ấn tượng tốt và làm chuyến đi có ý nghĩa; ẩm thực thỏa mãn nhu cầu tìm hiểu, khám phá tinh hoa văn hóa địa phương và giúp du khách phục hồi sức khỏe để tham gia trọn vẹn chương trình du lịch.",
+    "expected_context": "Văn hóa ẩm thực tại địa phương nơi đến của du khách chính là sự quan tâm hàng đầu của khách du lịch. Bởi thông qua việc thưởng thức các món ăn, du khách sẽ có thể hiểu được về phong tục, tập quan, lối sống, cũng như lối hành xử của nơi đến... việc thưởng thức những món ăn ngon cũng là dịp để thực khách lấy lại sức khỏe. (Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md)",
+    "difficulty": "medium",
+    "source": "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md"
+  },
+  {
+    "question": "Tính đến tháng 3/2022, Hà Nội có bao nhiêu nhà hàng đạt chuẩn cao cấp?",
+    "expected_answer": "Tính đến tháng 3/2022, Hà Nội có 21 nhà hàng đạt chuẩn cao cấp với nhiều nhà hàng đặc sản.",
+    "expected_context": "Tính đến tháng 3/2022, Hà Nội có 21 nhà hàng đạt chuẩn cao cấp với nhiều nhà hàng đặc sản. (am_thuc_ha_noi.md)",
+    "difficulty": "easy",
+    "source": "legal/am_thuc_ha_noi.md"
+  },
+  {
+    "question": "Phát triển du lịch ẩm thực tại Hà Nội hiện còn những hạn chế nào?",
+    "expected_answer": "Thị trường khách có khả năng chi trả cao còn ít; cơ sở hạ tầng chưa đồng bộ; các tuyến, điểm còn lẻ tẻ, cách xa nhau, khó di chuyển; an ninh an toàn ở nhiều điểm chưa đảm bảo; sản phẩm du lịch đơn điệu, trùng lặp, chưa có sản phẩm đặc trưng; kiểm soát chất lượng gặp nhiều khó khăn.",
+    "expected_context": "Tuy nhiên, việc phát triển DLAT tại Hà Nội vẫn còn gặp phải một số hạn chế. Cụ thể như: thị trường khách có khả năng chi trả cao còn ít, cơ sở hạ tầng chưa thực sự đồng bộ. Các tuyến, điểm còn lẻ tẻ, cách xa nhau, khó khăn cho di chuyển và tiếp cận điểm đến, an ninh an toàn ở nhiều điểm du lịch đôi khi chưa đảm bảo. Ngoài ra, sản phẩm du lịch còn đơn điệu, trùng lặp, chưa có sản phẩm đặc trưng, việc kiểm soát chất lượng gặp nhiều khó khăn. (am_thuc_ha_noi.md)",
+    "difficulty": "medium",
+    "source": "legal/am_thuc_ha_noi.md"
+  },
+  {
+    "question": "Khách du lịch quốc tế đến Hà Nội phần lớn đến từ những quốc gia nào?",
+    "expected_answer": "Khách quốc tế đến Hà Nội phần lớn đến từ Trung Quốc, Hàn Quốc và Nhật Bản.",
+    "expected_context": "Khách du lịch tới Hà Nội rất lớn, khách quốc tế phần lớn tới từ các nước Trung Quốc, Hàn Quốc, Nhật Bản. (am_thuc_ha_noi.md)",
+    "difficulty": "easy",
+    "source": "legal/am_thuc_ha_noi.md"
+  },
+  {
+    "question": "Quán phở bò Ấu Triệu được Michelin giới thiệu có đặc điểm gì và nên đến lúc nào?",
+    "expected_answer": "Quán ở 34 phố Ấu Triệu, bên hông Nhà Thờ Lớn, nằm trong danh sách Michelin Bib Gourmand, không có biển hiệu; mang phong cách phở Nam Định với nước hầm xương bò nấu 10 tiếng, có thịt bò tái chín và gân bò. Quán không bán buổi trưa nên nên đến trước 9h30.",
+    "expected_context": "thưởng thức phở bò tại phố Ấu Triệu. Đây là quán ăn trong danh sách Michelin Bib Gourmand. Quán nằm bên hông Nhà Thờ Lớn... quán không biển hiệu... Quán mang phong cách phở Nam Định, nước hầm xương bò được nấu trong 10 tiếng... Quán không bán buổi trưa, tốt nhất hãy tới đây trước 9h30. (news/article_02.md)",
+    "difficulty": "medium",
+    "source": "news/article_02.md"
+  },
+  {
+    "question": "Theo chuyên gia Michelin, ngoài phở du khách nên thử những món nào khi đến Hà Nội?",
+    "expected_answer": "Năm món: bún chả, cơm rang, bánh cuốn, chả cá và bún riêu.",
+    "expected_context": "Ngoài phở đã quá nổi tiếng, du khách đến Hà Nội nên thử các món ăn như bún chả, bánh cuốn, cơm rang, bún riêu, chả cá, theo chuyên gia Michelin. (news/article_03.md)",
+    "difficulty": "easy",
+    "source": "news/article_03.md"
+  },
+  {
+    "question": "Hương vị ẩm thực Hà Nội khác gì so với các món ăn miền Nam?",
+    "expected_answer": "Món miền Nam thường ngọt và cay, còn đồ ăn Hà Nội dựa trên sự hài hòa giữa vị ngọt, mặn, chua và umami, làm nổi bật hương vị tự nhiên của nguyên liệu.",
+    "expected_context": "Các món ăn miền Nam thường ngọt và cay trong khi đồ ăn Hà Nội dựa trên việc sử dụng hài hòa vị ngọt, mặn, chua và umami (ngọt từ thịt), làm nổi bật hương vị tự nhiên của nguyên liệu. (news/article_03.md)",
+    "difficulty": "easy",
+    "source": "news/article_03.md"
+  },
+  {
+    "question": "Thời gian nào lý tưởng nhất để du lịch Hà Nội?",
+    "expected_answer": "Mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4.",
+    "expected_context": "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. (news/article_01.md)",
+    "difficulty": "easy",
+    "source": "news/article_01.md"
+  },
+  {
+    "question": "Muốn ngắm hoàng hôn ở Hà Nội thì nên đến đâu và đứng ở vị trí nào?",
+    "expected_answer": "Điểm ngắm hoàng hôn đẹp nhất là hồ Tây; vị trí đẹp nhất là đường Thanh Niên (đoạn gần chùa Trấn Quốc), phố Từ Hoa và phố Quảng Bá.",
+    "expected_context": "điểm ngắm hoàng hôn đẹp nhất trong thành phố là hồ Tây... Những vị trí đẹp nhất để bắt trọn khoảnh khắc này là đường Thanh Niên (đoạn gần chùa Trấn Quốc), phố Từ Hoa và phố Quảng Bá. (news/article_04.md)",
+    "difficulty": "easy",
+    "source": "news/article_04.md"
+  },
+  {
+    "question": "Bún chả được nhắc đến như thế nào trong các nguồn, và có thể ăn bún chả ở những quán nào?",
+    "expected_answer": "Bún chả là biểu tượng ẩm thực đường phố Hà Nội gồm thịt lợn nướng (miếng hoặc băm), bún, rau sống và nước mắm chua ngọt, thường ăn vào bữa trưa; từng được ông Obama thưởng thức tại quán Hương Liên. Các quán gợi ý gồm Tuyết Bún Chả 34 (34 Hàng Than, Bib Gourmand), bún chả Ta, bún chả Chan, bún chả Hàng Quạt, bún chả ngõ Huyện, và các quán ở Hàng Mã, Hàng Đồng.",
+    "expected_context": "Bún chả là biểu tượng của ẩm thực đường phố Hà Nội, là sự kết hợp giữa thịt lợn nướng (thái miếng hoặc băm), bún, rau sống và nước mắm pha chua ngọt. Địa chỉ tham khảo: Bún chả Tuyết 34, Bún chả Ta, bún chả Chan, bún chả Hàng Quạt (news/article_03.md); Tuyết Bún Chả 34, trong danh sách Bib Gourmand (news/article_02.md); bún chả Hàng Quạt, bún chả ngõ Huyện (news/article_04.md); quán bún chả Hương Liên nơi Obama dùng bữa tối (Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md).",
+    "difficulty": "hard",
+    "source": "multi: news/article_02.md, news/article_03.md, news/article_04.md, legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md"
+  }
+]
