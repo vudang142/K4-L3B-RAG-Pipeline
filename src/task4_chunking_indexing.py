@@ -14,6 +14,9 @@ chạy lại pipeline không tạo dữ liệu trùng. Task 5 phải dùng chung
 import os
 from pathlib import Path
 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"
 CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
@@ -36,13 +39,29 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
         from google import genai
         from google.genai import types
 
+        import time
+
         client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-        result = client.models.embed_content(
-            model=EMBEDDING_MODEL,
-            contents=texts,
-            config=types.EmbedContentConfig(output_dimensionality=EMBEDDING_DIM),
-        )
-        return [embedding.values for embedding in result.embeddings]
+        vectors = []
+        batch_size = 20
+        for start in range(0, len(texts), batch_size):
+            batch = texts[start : start + batch_size]
+            for attempt in range(5):
+                try:
+                    result = client.models.embed_content(
+                        model=EMBEDDING_MODEL,
+                        contents=batch,
+                        config=types.EmbedContentConfig(output_dimensionality=EMBEDDING_DIM),
+                    )
+                    break
+                except Exception as error:
+                    if "RESOURCE_EXHAUSTED" in str(error) and attempt < 4:
+                        time.sleep(40)
+                        continue
+                    raise
+            vectors.extend(embedding.values for embedding in result.embeddings)
+            time.sleep(2)
+        return vectors
 
     if EMBEDDING_PROVIDER == "openai":
         from openai import OpenAI
