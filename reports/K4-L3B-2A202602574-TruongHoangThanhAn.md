@@ -21,14 +21,13 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 | Module/deliverable             | Việc tôi trực tiếp làm                                                                                                                                                          | File/commit/PR                                                        | Trạng thái |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ------------ |
-| Kế hoạch nhóm               | Viết plan phân vai 4 role, timeline 4 giờ, rủi ro và checklist nộp bài                                                                                                        | `plan.md` — commit `08bdd9e`                                     | Done         |
-| Task 1 — Thu thập tài liệu | Cài`download_documents()`: ghi nguồn trích dẫn của 3 PDF, bỏ qua file đã có, chỉ nhận response là PDF/DOCX thật, kiểm tra ≥3 file >1KB                              | `src/task1_collect_legal_docs.py`                                   | Done         |
-| Task 2 — Crawl tin            | Chạy crawl 5 URL bằng Crawl4AI (trong`.venv`), kiểm tra 5 JSON đủ 4 field                                                                                                     | `data/landing/news/*.json` — commit `1658b15`                    | Done         |
 | Task 3 — Chuẩn hóa Markdown | Cài`convert_legal_docs()` (MarkItDown) và `convert_news_articles()` (header title/url/date); tên file theo `path.stem` nên chạy lại không tạo trùng                   | `src/task3_convert_markdown.py` — commit `1658b15`               | Done         |
 | Task 4 — Chunking/Indexing    | Cài load/chunk/embed/upsert ChromaDB (cosine); sửa lỗi không nạp`.env` và batch + retry embedding Gemini; index 429 chunks                                                   | `src/task4_chunking_indexing.py` — commit `3729a1f`, `1658b15` | Done         |
 | Task 5 — Semantic search      | Cài`semantic_search()` dùng chung `embed_texts()` với Task 4, đổi cosine distance → similarity                                                                             | `src/task5_semantic_search.py` — commit `3729a1f`                | Done         |
 | Tích hợp Role C              | Review nhánh`Khánh-Linh`, chỉ lấy task6–9 (bỏ các thay đổi xóa PDF/plan.md do nhánh rẽ từ commit cũ), chạy test rồi merge vào `TruongHoangThanhAn` và `main` | commit`1658b15`                                                     | Done         |
 | Task 9 — Calibrate threshold  | Thay bộ câu hỏi calibrate sai domain (đại học) bằng câu hỏi du lịch ẩm thực, đo và chọn`SCORE_THRESHOLD = 0.73`                                                     | `src/task9_retrieval_pipeline.py`                                   | Done         |
+| Task 10 — Generation          | Cài `reorder_for_llm`, `format_context`, `call_llm` (dispatch gemini/openai/anthropic), `generate_with_citation` với safe refusal khi context rỗng, LLM từ chối, hoặc provider lỗi | `src/task10_generation.py`                                          | Done         |
+| Evaluation — Golden dataset + A/B | Viết 17 câu hỏi grounded trong corpus (dễ, trung bình, 1 câu multi-hop); viết `run_evaluation.py` chấm 4 metric RAGAS (Gemini làm evaluator qua endpoint OpenAI-compatible) cho Config A (dense) và B (hybrid); phân tích 3 worst-case và đề xuất | `group_project/evaluation/golden_dataset.json`, `run_evaluation.py`, `RESULT.md` | Done |
 
 Chỉ kê khai công việc có thể đối chiếu bằng file, commit, pull request, test hoặc kết quả evaluation.
 
@@ -43,8 +42,8 @@ Chỉ kê khai công việc có thể đối chiếu bằng file, commit, pull r
 
 ## Kiểm thử và kết quả
 
-- Test hoặc query tôi đã dùng: `pytest tests/ -q`; `python -m src.task5_semantic_search`; `python -m src.task9_retrieval_pipeline "ẩm thực Hà Nội có món gì ngon"`; calibrate bằng `python -m src.task9_retrieval_pipeline`.
-- Kết quả trước/sau nếu có: trước khi sửa, `chroma_db/` không tồn tại và mọi test retrieval fail vì `NotImplementedError`. Sau khi sửa, `pytest` đạt 17/20 pass. 3 test còn fail thuộc task10 (Role D) và phần evaluation của cả nhóm.
+- Test hoặc query tôi đã dùng: `pytest tests/ -q`; `python -m src.task5_semantic_search`; `python -m src.task9_retrieval_pipeline "ẩm thực Hà Nội có món gì ngon"`; calibrate bằng `python -m src.task9_retrieval_pipeline`; `python -m group_project.evaluation.run_evaluation` (A/B đầy đủ 17 câu × 2 config).
+- Kết quả trước/sau nếu có: trước khi sửa, `chroma_db/` không tồn tại và mọi test retrieval fail vì `NotImplementedError`. Sau khi hoàn thành task1–10 và evaluation, `pytest -q` đạt 20/20 pass. RAGAS: Config B (hybrid) thắng cả 4 metric so với Config A (dense-only) — average 0.8294 vs 0.7973, faithfulness 1.0 vs 0.9412, refusal rate 0/17 vs 1/17.
 - Lỗi đã phát hiện và cách xử lý:
   - Task 4 không gọi `load_dotenv()`, nên âm thầm dùng `sentence_transformers` (chưa cài) thay vì Gemini. Đã thêm `load_dotenv()`.
   - Nhánh `Khánh-Linh` rẽ từ commit cũ, nếu merge cả nhánh sẽ xóa 3 PDF và `plan.md`. Tôi chỉ lấy 4 file task6–9.
@@ -52,8 +51,8 @@ Chỉ kê khai công việc có thể đối chiếu bằng file, commit, pull r
 
 ## Điều còn hạn chế
 
-- Một hạn chế cụ thể của phần tôi làm: chunk cố định 500 ký tự cắt ngang các bảng số liệu trong PDF nghiên cứu. Nhiều chunk chỉ còn các dòng số, không có tên cột, nên vẫn đạt dense score cao (~0.57) với cả câu "test query". Ngoài ra, khi chưa có `PAGEINDEX_API_KEY`, câu ngoài chủ đề dù dưới threshold vẫn nhận lại kết quả hybrid, nên việc từ chối trả lời phải do prompt của task10 đảm nhận.
-- Nếu có thêm thời gian, thay đổi đầu tiên tôi sẽ thực hiện: chunk theo cấu trúc Markdown (heading/bảng) để giữ bảng số liệu nguyên vẹn, và trả `[]` khi dense score dưới threshold mà fallback rỗng, để pipeline tự từ chối trả lời mà không phụ thuộc LLM.
+- Một hạn chế cụ thể của phần tôi làm: chunk cố định 500 ký tự cắt ngang các bảng số liệu trong PDF nghiên cứu. Nghiêm trọng hơn, evaluation phát hiện PDF `MOT_SO_YEU_TO_ANH_HUONG_...pdf` có layout 2 cột mà MarkItDown trích xuất xen kẽ dòng giữa 2 cột, làm nhiễu context dù LLM vẫn suy ra đúng câu trả lời (case cụ thể trong `RESULT.md`). Ngoài ra, dense-only (Config A) khi dưới `SCORE_THRESHOLD` mà không có `PAGEINDEX_API_KEY` sẽ từ chối trả lời hoàn toàn dù đáp án có trong corpus — hybrid (Config B) không gặp vấn đề này.
+- Nếu có thêm thời gian, thay đổi đầu tiên tôi sẽ thực hiện: đổi `convert_legal_docs()` sang thư viện đọc PDF theo layout cột (`pdfplumber`/`PyMuPDF`) cho các file khoa học nhiều cột, và đặt `use_reranking=True` làm mặc định trong `app.py` vì đã có evidence A/B rõ ràng.
 
 ## Xác nhận đóng góp
 

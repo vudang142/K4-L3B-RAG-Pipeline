@@ -1,0 +1,29 @@
+{
+  "run": {
+    "date": "2026-09-25",
+    "generator": "gemini-3.5-flash-lite",
+    "evaluator": "gemini-3.5-flash-lite",
+    "embedding": "gemini-embedding-001",
+    "top_k": 5,
+    "score_threshold": 0.73,
+    "dataset_size": 17
+  },
+  "A": {
+    "faithfulness": 0.9412,
+    "answer_relevancy": 0.8887,
+    "context_recall": 0.7843,
+    "context_precision": 0.575,
+    "average": 0.7973,
+    "mean_latency_s": 6.1688,
+    "refusals": 1
+  },
+  "B": {
+    "faithfulness": 1.0,
+    "answer_relevancy": 0.9155,
+    "context_recall": 0.8235,
+    "context_precision": 0.5784,
+    "average": 0.8294,
+    "mean_latency_s": 7.4765,
+    "refusals": 0
+  }
+}

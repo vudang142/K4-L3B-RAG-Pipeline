@@ -1,0 +1,359 @@
+[
+  {
+    "question": "Những yếu tố nào ảnh hưởng đến phát triển du lịch ẩm thực đường phố tại Hà Nội, xếp theo mức độ ảnh hưởng từ cao đến thấp?",
+    "answer": "Các yếu tố ảnh hưởng trực tiếp đến sự phát triển du lịch ẩm thực đường phố tại Hà Nội, xếp theo mức độ ảnh hưởng từ cao đến thấp gồm:\n1. Truyền thông và Quảng cáo (Communications and Advertising) [Document 2].\n2. Vệ sinh an toàn thực phẩm (Food Hygiene and Safety) [Document 2].\n3. Văn hóa ẩm thực địa phương (Local Culinary Culture) [Document 2].\n4. Nguồn nhân lực chế biến và phục vụ (Human Resources for Processing and Serving) [Document 2].\n5. Điều kiện vật chất (Material Conditions) [Document 2].\n6. Giá cả (Price) [Document 2].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "biến và phục vụ; Điều kiện vật chất; Giá cả. Kết quả nghiên cứu là cơ sở quan trọng để đề xuất một số hàm ý\nquản trị nhằm góp phần phát triển du lịch ẩm thực đường phố tại TP. Hà Nội.\nTừ khóa: Yếu tố ảnh hưởng, du lịch ẩm thực đường phố, Hà Nội.\n1. Đặt vấn đề những ở Việt Nam mà còn trên toàn thế giới,\ndu lịch ẩm thực cho phép du khách phát\nDu lịch là một lĩnh vực đem đến cho con\ntriển mối quan hệ với ẩm thực địa phương,\nngười nhiều trải nghiệm phong phú, ngoài",
+      "help develop street food tourism in Hanoi.\nKeywords: Influencing factors, street food tourism, Hanoi.\n25",
+      "correlation analysis, and linear regression. The results show that six factors, ranked from highest to lowest\nimpact, directly influence the development of street food tourism in Hanoi: Communications and Advertising,\nFood Hygiene and Safety, Local Culinary Culture, Human Resources for Processing and Serving, Material\nConditions, and Price. These findings provide an important basis for proposing management implications to\nhelp develop street food tourism in Hanoi.",
+      "Ba là, Văn hóa ẩm thực địa phương là yếu\nMột là, Quảng bá là yếu tố có ảnh hưởng tố tạo nên nét đặc trưng và hấp dẫn từ những\nlớn nhất đến sự phát triển du lịch ẩm thực. món ăn ẩm thực trên đường phố đối với du\nDo đó, Sở Du lịch Hà Nội cần xây dựng khách. Do đó, các cơ sở kinh doanh ẩm thực\nmột chiến lược quảng cáo đa dạng, phong cần chú trọng từ chất lượng nguồn nguyên\nphú gắn với sự phát triển của mạng xã hội liệu đến cải thiện quá trình chế biến và sự",
+      "sản xuất, chế biến và kinh doanh dịch vụ ẩm cứu sơ bộ để phù hợp với điều kiện và thực\nthực phát triển; Nguồn nhân lực chế biến và trạng tại TP. Hà Nội, nhóm tác giả đề xuất\nphục vụ ẩm thực có chất lượng cao; Sự tham các nhân tố ảnh hưởng đến phát triển du lịch\ngia tích cực của cộng đồng địa phương; Sự ẩm thực đường phố gồm: Văn hóa ẩm thực\ntham gia của các chủ thể quản lý nhà nước, địa phương; Nguồn nhân lực chế biến và\n17"
+    ],
+    "context_ids": [
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-3",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-87",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-86",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-70",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-23"
+    ],
+    "reference": "Có 6 yếu tố, theo thứ tự giảm dần: Quảng bá; Vệ sinh an toàn thực phẩm; Văn hóa ẩm thực địa phương; Nguồn nhân lực chế biến và phục vụ; Điều kiện vật chất; Giá cả.",
+    "latency_s": 7.06
+  },
+  {
+    "question": "Nghiên cứu về các yếu tố ảnh hưởng đến du lịch ẩm thực đường phố Hà Nội đã khảo sát bao nhiêu khách du lịch và dùng phần mềm gì để phân tích?",
+    "answer": "Nghiên cứu đã khảo sát 305 khách du lịch [Document 3, Document 4] và sử dụng phần mềm SPSS26 để phân tích dữ liệu [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "du lịch. Dữ liệu thu về được xử lý bằng phần mềm SPSS26 với các phương pháp, thống kê mô tả, kiểm định\nCronbach’s Alpha, phân tích nhân tố khám phá EFA, phân tích tương quan và hồi quy tuyến tính. Kết quả nghiên\ncứu chỉ ra 6 yếu tố theo mức độ từ cao tới thấp có ảnh hưởng trực tiếp đến phát triển du lịch ẩm thực đường phố\ntại TP. Hà Nội gồm: Quảng bá; Vệ sinh an toàn thực phẩm; Văn hóa ẩm thực địa phương; Nguồn nhân lực chế",
+      "biến và phục vụ; Điều kiện vật chất; Giá cả. Kết quả nghiên cứu là cơ sở quan trọng để đề xuất một số hàm ý\nquản trị nhằm góp phần phát triển du lịch ẩm thực đường phố tại TP. Hà Nội.\nTừ khóa: Yếu tố ảnh hưởng, du lịch ẩm thực đường phố, Hà Nội.\n1. Đặt vấn đề những ở Việt Nam mà còn trên toàn thế giới,\ndu lịch ẩm thực cho phép du khách phát\nDu lịch là một lĩnh vực đem đến cho con\ntriển mối quan hệ với ẩm thực địa phương,\nngười nhiều trải nghiệm phong phú, ngoài",
+      "tích tương quan và phân tích hồi quy tuyến tính\ntích cực đến phát triển du lịch ẩm thực đường\nđa biến bằng phần mềm SPSS 26, qua đó xem\nphố\nxét yếu tố nào trong mô hình nghiên cứu tác\nH5: Điều kiện vật chất ảnh hưởng tích cực\nđộng trực tiếp đến việc phát triển du lịch ẩm\nđến phát triển du lịch ẩm thực đường phố\nthực đường phố tại TP. Hà Nội và mức độ tác\nH6: Quảng bá ảnh hưởng tích cực đến\nphát triển du lịch ẩm thực đường phố động của từng yếu tố đó.",
+      "1Khoa Kinh tế - Quản trị Kinh doanh, Trường Đại học Thành Đông, Hải Dương\n2Khoa Kinh tế Tài nguyên và Môi trường, Trường Đại học Tài nguyên và Môi trường Hà Nội\nNgày nhận bài: 17/7/2024; Ngày chỉnh sửa: 01/8/2024; Ngày duyệt đăng: 04/8/2024\nDOI: https://doi.org/10.59775/1859-3968.214\nTóm tắt\nNghiên cứu được thực hiện nhằm tìm hiểu và đánh giá các yếu tố ảnh hưởng đến phát triển du lịch ẩm thực\nđường phố tại TP. Hà Nội thông qua bảng câu hỏi cấu trúc để khảo sát và thu thập dữ liệu từ 305 khách",
+      "Trong đó: suất thuận tiện đối với khách du lịch trên địa\nDLAT (biến phụ thuộc): Phát triển du lịch bàn Thành phố Hà Nội trong khoảng thời gian\nẩm thực đường phố từ 10/12/2023 tới 05/05/2024. Kết quả khảo sát\nCác biến độc lập bao gồm (Xi): Văn hóa thu về 305 phiếu đủ điều kiện hợp lệ để đưa\nẩm thực địa phương (VH); Nguồn nhân lực vào nghiên cứu phân tích.\n18"
+    ],
+    "context_ids": [
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-2",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-3",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-26",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-1",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-29"
+    ],
+    "reference": "Nghiên cứu khảo sát 305 khách du lịch bằng bảng câu hỏi cấu trúc và phân tích dữ liệu bằng phần mềm SPSS 26.",
+    "latency_s": 5.55
+  },
+  {
+    "question": "Mô hình hồi quy trong nghiên cứu du lịch ẩm thực đường phố Hà Nội giải thích được bao nhiêu phần trăm sự biến thiên của biến phụ thuộc?",
+    "answer": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+    "retrieval_source": "none",
+    "contexts": [
+      "tích tương quan và phân tích hồi quy tuyến tính\ntích cực đến phát triển du lịch ẩm thực đường\nđa biến bằng phần mềm SPSS 26, qua đó xem\nphố\nxét yếu tố nào trong mô hình nghiên cứu tác\nH5: Điều kiện vật chất ảnh hưởng tích cực\nđộng trực tiếp đến việc phát triển du lịch ẩm\nđến phát triển du lịch ẩm thực đường phố\nthực đường phố tại TP. Hà Nội và mức độ tác\nH6: Quảng bá ảnh hưởng tích cực đến\nphát triển du lịch ẩm thực đường phố động của từng yếu tố đó.",
+      "biến và phục vụ; Điều kiện vật chất; Giá cả. Kết quả nghiên cứu là cơ sở quan trọng để đề xuất một số hàm ý\nquản trị nhằm góp phần phát triển du lịch ẩm thực đường phố tại TP. Hà Nội.\nTừ khóa: Yếu tố ảnh hưởng, du lịch ẩm thực đường phố, Hà Nội.\n1. Đặt vấn đề những ở Việt Nam mà còn trên toàn thế giới,\ndu lịch ẩm thực cho phép du khách phát\nDu lịch là một lĩnh vực đem đến cho con\ntriển mối quan hệ với ẩm thực địa phương,\nngười nhiều trải nghiệm phong phú, ngoài",
+      "correlation analysis, and linear regression. The results show that six factors, ranked from highest to lowest\nimpact, directly influence the development of street food tourism in Hanoi: Communications and Advertising,\nFood Hygiene and Safety, Local Culinary Culture, Human Resources for Processing and Serving, Material\nConditions, and Price. These findings provide an important basis for proposing management implications to\nhelp develop street food tourism in Hanoi.",
+      "du lịch. Dữ liệu thu về được xử lý bằng phần mềm SPSS26 với các phương pháp, thống kê mô tả, kiểm định\nCronbach’s Alpha, phân tích nhân tố khám phá EFA, phân tích tương quan và hồi quy tuyến tính. Kết quả nghiên\ncứu chỉ ra 6 yếu tố theo mức độ từ cao tới thấp có ảnh hưởng trực tiếp đến phát triển du lịch ẩm thực đường phố\ntại TP. Hà Nội gồm: Quảng bá; Vệ sinh an toàn thực phẩm; Văn hóa ẩm thực địa phương; Nguồn nhân lực chế",
+      "Trong đó: suất thuận tiện đối với khách du lịch trên địa\nDLAT (biến phụ thuộc): Phát triển du lịch bàn Thành phố Hà Nội trong khoảng thời gian\nẩm thực đường phố từ 10/12/2023 tới 05/05/2024. Kết quả khảo sát\nCác biến độc lập bao gồm (Xi): Văn hóa thu về 305 phiếu đủ điều kiện hợp lệ để đưa\nẩm thực địa phương (VH); Nguồn nhân lực vào nghiên cứu phân tích.\n18"
+    ],
+    "context_ids": [
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-26",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-3",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-86",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-2",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-29"
+    ],
+    "reference": "Mô hình có R² hiệu chỉnh 0,786, giải thích được 78,6% sự biến thiên của biến phụ thuộc (phát triển du lịch ẩm thực đường phố).",
+    "latency_s": 5.0
+  },
+  {
+    "question": "Vì quảng bá là yếu tố ảnh hưởng lớn nhất, nghiên cứu kiến nghị Sở Du lịch Hà Nội làm gì?",
+    "answer": "Vì quảng bá là yếu tố có ảnh hưởng lớn nhất đến sự phát triển du lịch ẩm thực, Sở Du lịch Hà Nội cần xây dựng một chiến lược quảng cáo đa dạng, phong phú gắn với sự phát triển của mạng xã hội [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "Ba là, Văn hóa ẩm thực địa phương là yếu\nMột là, Quảng bá là yếu tố có ảnh hưởng tố tạo nên nét đặc trưng và hấp dẫn từ những\nlớn nhất đến sự phát triển du lịch ẩm thực. món ăn ẩm thực trên đường phố đối với du\nDo đó, Sở Du lịch Hà Nội cần xây dựng khách. Do đó, các cơ sở kinh doanh ẩm thực\nmột chiến lược quảng cáo đa dạng, phong cần chú trọng từ chất lượng nguồn nguyên\nphú gắn với sự phát triển của mạng xã hội liệu đến cải thiện quá trình chế biến và sự",
+      "Đầu tư, khuyến khích nhiều hơn cho hoạt động\nXỊÍC tiến, quảng bá, nghiên cứu thị trường. Đổ thực\nhiện tốt nhiệm vụ này, các cơ sở kinh doanh dịch\nvụ cần hợp tác để tạo ra những hoạt động quảng\nbá mang tiếng vang lớn, như: Hội chợ ẩm thực Hà\nNội tại các địa phương, các cuộc thi về ẩm thực,\ntạo ra các quảng cáo chung để quảng bá về DLAT\nHà Nội,...\n\n3.2.  Kiến nghị\nMột số kiến nghị đôi với cơ quan quản lý nhà\nnước nhằm hỗ trợ DLAT phát triển trong thời gian\ntới, cụ thể là:",
+      "3.1.  Một số giải pháp\nNghiên cứu định hướng phát triển DLAT tại Hà\nNội trong giai đoạn 2018 - 2020 cho thấy những\nphương hướng phát triển của hoạt động này tính\nđến năm 2025 chủ yếu chú trọng vào việc mở rộng\nthị trường khách và quy mô hoạt động du lịch, đa\ndạng hóa và nâng cao chất lượng sản phẩm, nâng\ncao chất lượng cơ sở vật chất, cơ sở hạ tầng, cùng\nviệc nâng cao chất lượng đội ngũ lao động, chú\ntrọng hơn nữa vào công tác xúc tiến quảng bá du\nlịch, trong đó có xúc tiến DLAT của Hà Nội.",
+      "thiết để đại diện cho đặc trưng của nền ẩm thực Việt Nam, đã trở thành đại sứ thương\n\nhiệu cho đất nước, là công cụ nhằm xúc tiến và quảng bá du lịch Việt Nam đến bạn\n\nbè khắp năm châu, giúp nền kinh tế du lịch Việt Nam tăng trưởng thần tốc như những\n\nnăm gần đây.\n\nSau đây là một số nhóm giải pháp nhằm thu hút khách du lịch trong và ngoài\n\nnước đến với Hà Nội và Việt Nam thông qua phát huy thế mạnh văn hóa ẩm thực Hà\n\nthành [5]:",
+      "Tăng cường hoạt dộng quảng bá xúc tiến thu hút\nkhách: Hiện nay, các doanh nghiệp đã chú trọng tới\nnghiên cứu thị trường, xúc tiến quảng bá qua việc\nkết hợp sử dụng thông tin đại chúng, tờ rơi quảng\ncáo, phim ngắn,... thu hút khách du lịch đến với ẩm\nthực Việt Nam. Tuy nhiên, công tác nghiên cứu thị\ntrường chưa được các doanh nghiệp quan tâm đúng\nmức; việc quảng bá, xúc tiến DLAT thiếu tính\nchiến lược, kế hoạch, thiếu tính tổng thể và chuyên\nnghiệp, kinh phí hạn hẹp,...\n\n108 SỐ6-Tháng 4/2022"
+    ],
+    "context_ids": [
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-70",
+      "legal/am_thuc_ha_noi.md::chunk-37",
+      "legal/am_thuc_ha_noi.md::chunk-31",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-21",
+      "legal/am_thuc_ha_noi.md::chunk-25"
+    ],
+    "reference": "Sở Du lịch Hà Nội cần xây dựng chiến lược quảng cáo đa dạng gắn với mạng xã hội như TikTok, Facebook, Instagram hoặc qua ấn phẩm, báo chí du lịch, truyền hình; tạo ứng dụng và trang web cung cấp thông tin, đánh giá, hướng dẫn du khách; tham gia hội chợ ẩm thực, roadshow, lễ hội giao lưu văn hóa ẩm thực.",
+    "latency_s": 6.19
+  },
+  {
+    "question": "Báo Telegraph xếp Hà Nội ở vị trí nào trong danh sách các thành phố có nền ẩm thực hấp dẫn nhất thế giới?",
+    "answer": "Báo Telegraph (Anh) đã xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất thế giới [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "thử khi du lịch thế giới, trong đó có Chả cá Lã Vọng của Việt Nam. Báo Telegraph\n\n(Anh) đã xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất\n\nthế giới. [2]. Sau đây là một số đặc sản ẩm thực của Hà Nội được tác giả bài viết này\n\ncũng người từng sống ở Hà Nội những năm tuổi thơ ấu khuyến cáo du khách đặt chân\n\nđến đây bắt buộc phải thưởng thức [3, 4]:\n\na)  Phở nước. Tô phở nóng hổi, húp xì xụp nước dùng thơm ngon, đậm đà",
+      "Thăng Long đã nổi tiếng với tinh hoa ẩm thực phong phú, độc đáo thu hút nhiều du\n\nkhách đến thưởng thức. Hà Nội nhiều năm đã được lọt vào top các thủ đô ẩm thực có\n\nđồ ăn ngon nhất được trang Insider giới thiệu cho du khách sành ăn trên khắp thế giới\n\n[1]. Rất nhiều địa chỉ ẩm thực Hà Nội được lọt vào danh sách các nhà hàng phải tới\n\ntại Việt Nam. Ví dụ như, Bloomberg mới có bài giới thiệu top 12 nhà hàng ngon phải",
+      "hoạch những khu ẩm thực đường phố chuyên phục vụ du khách nước ngoài.\n\nTài liệu tham khảo:\n\n1.  https://baomoi.com/thu-do-ha-noi-lot-top-thanh-pho-co-am-thuc-hap-dan-\n\nnhat-the-gioi-thu-hut-hoi-sanh-an-khap-4-phuong/c/24326763.epi\n\n2.  https://dulich.vnexpress.net/tin-tuc/tu-van/am-thuc/nha-hang-viet-vao-top-\n\ndia-chi-am-thuc-phai-toi-3676195.html\n\n3.  https://news.zing.vn/top-10-mon-an-ngon-phai-thu-khi-den-ha-noi-\n\npost711345.html",
+      "khách trong nước và quốc tế yếu thích. Hà Nội đã nhiều lần được lọt vào danh sách\n\ntop các thành phố có nền ẩm thức hàng đầu châu Á. Bài viết này sẽ tình hiểu về thực\n\ntrạng nền văn hóa ẩm thức Hà thành, từ đó đề xuất những biện pháp hữu hiệu nhằm\n\nthu hút và giữ chân du khách đến với Hà Nội và Việt Nam.\n\nTừ khóa: Hà Nội, văn hóa ẩm thực, du lịch Việt Nam.\n\n1.  Giới thiệu về ẩm thực Hà Nội\n\nHà Nội không chỉ có nhiều danh lam thắng cảnh đẹp, mà từ xa xưa kinh đô",
+      "bánh mì, cà phê trứng... năm 2023 Hà Nội đạt đồ ăn thức uống độc đáo và đáng nhớ. Du\ndanh hiệu “Thành phố ẩm thực mới nổi tốt lịch ẩm thực là loại hình du lịch tổ chức và\nnhất châu Á” tại Giải thưởng Ẩm thực Thế hướng dẫn du khách đến các điểm du lịch\ngiới (World Culinary Awards), đầu năm 2024 để tìm hiểu, thưởng thức, trải nghiệm đồ ăn,\nHà Nội vinh dự khi đứng thứ nhất trong danh thức uống có tính nghệ thuật và văn hóa đặc"
+    ],
+    "context_ids": [
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-4",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-3",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-26",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-2",
+      "legal/MOT_SO_YEU_TO_ANH_HUONG_DEN_PHAT_TRIEN_DU_LICH_AM_.md::chunk-9"
+    ],
+    "reference": "Báo Telegraph (Anh) xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất thế giới.",
+    "latency_s": 5.81
+  },
+  {
+    "question": "Tổng thống Mỹ Barack Obama đã ăn bún chả ở quán nào tại Hà Nội và vào ngày nào?",
+    "answer": "Tổng thống Mỹ Barack Obama đã ăn bún chả tại quán Hương Liên (đường Lê Văn Hưu, Hai Bà Trưng) vào ngày 23/5/2016 [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "từ xương gà hoặc tôm.\n\ne)  Bún chả. Đây là món ăn được tổng thống Mỹ Brack Obama dùng làm bữa\n\ntối khi đến Việt Nam ngày 23/5/2016, tại quán bún chả Hương Liên (đường\n\nLê Văn Hưu, Hai Bà Trưng). Bát bún chả gồm chả thịt heo nướng  vàng\n\nruộm, vài miếng dưa đu đủ ăn cùng  với bún và rau sống. Món ăn thơm,\n\nngon có hương vị chua cay mặn ngọt của bát nước chấm, và hương vị tươi\n\nmát của rau.\n\nf)  Xôi. Xôi là món ăn sáng quen thuộc của người Hà Nội, trở thành món ăn",
+      "Bún chả là biểu tượng của ẩm thực đường phố Hà Nội, là sự kết hợp giữa thịt lợn nướng (thái miếng hoặc băm), bún, rau sống và nước mắm pha chua ngọt. Đến một quán bún chả, thực khách sẽ thấy ngay mùi thơm ngào ngạt của thịt nướng tại chỗ. Thịt được để trong bát nước mắm đã pha sẵn. Khi dùng, hãy chấm bún vào nước và ăn kèm rau sống hay dưa góp cho đỡ ngán.",
+      "_Bún chả_ - món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán [bún chả](https://vnexpress.net/bun-cha-nong-mon-qua-dau-dong-giua-long-ha-noi-3312047.html) ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội.",
+      "_Bữa trưa_\nBún chả là món ăn trưa phổ biến và được nhiều người Hà Nội yêu thích. Tuyết Bún Chả 34, trong danh sách Bib Gourmand, phục vụ những phần ăn phong phú với các loại chả miếng, chả băm, nem, kèm rau sống.\n![Bún chả và nem ở Tuyết Bún Chả 34. Ảnh: Migo](https://vnexpress.net/hai-ngay-o-ha-noi-thuong-thuc-mon-an-duong-pho-4786518.html)\nBún chả và nem ở Tuyết Bún Chả 34. Ảnh: _Migo_",
+      "Chả cá. Ảnh: _Michelin_\nChả cá bắt nguồn từ một địa chỉ trong khu phố cổ Hà Nội. Cá được thái thành miếng vuông, ướp với nghệ, kết hợp rau thì là tươi, hành, rồi ăn với đậu phộng và bún, thêm mắm tôm nếu thích. Món ăn được làm nóng ngay tại bàn. Do tự chế biến nên thực khách có thể chọn cá chín già hay vừa phải để phù hợp khẩu vị.\nĐịa chỉ tham khảo: Chả cá Thăng Long, Anh Vũ\n**Bún riêu**"
+    ],
+    "context_ids": [
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-9",
+      "news/article_03.md::chunk-12",
+      "news/article_01.md::chunk-58",
+      "news/article_02.md::chunk-19",
+      "news/article_03.md::chunk-16"
+    ],
+    "reference": "Ông Obama ăn bún chả tại quán bún chả Hương Liên (đường Lê Văn Hưu, Hai Bà Trưng) vào bữa tối ngày 23/5/2016.",
+    "latency_s": 7.6
+  },
+  {
+    "question": "Cốm ngon nhất Hà Nội đến từ đâu và có thể chế biến thành những món gì?",
+    "answer": "Cốm ngon nhất Hà Nội phải kể đến cốm Mễ Trì và cốm làng Vòng [Document 2]. Cốm có thể được chế biến thành chè cốm, chả cốm, xôi cốm [Document 2].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "đặc trưng của thủ đô. Buổi sáng sớm, bạn đi trên từng con phố dễ bắt gặp\n\nnhững người bà, mẹ bán xôi trên vỉa hè. Dừng xe lại thưởng thức bát xôi\n\nnóng thơm phức, hành phi giòn rụm khiến ta ấm lòng. Có nhiều loại xôi để\n\nbạn lựa chọn như xôi xéo, xôi đỗ xanh, xôi lạc, xôi chả lạp xưởng...\n\ng)  Cốm. Đây là món quà quê gợi nhớ về tuổi thơ, mang nét đẹp của ẩm thực\n\nHà Nội. Những hạt cốm xanh non, dẹt, dẻo thơm ngào ngạt được gói cẩn",
+      "**Cốm : **Hương cốm làng Vòng từ lâu cũng làm nên nét quyến rũ rất riêng cho ẩm thực thủ đô. Tuy nhiên do chỉ có vào mùa thu nên bánh cốm Hàng Than là lựa chọn thay thế hoàn hảo với nhiều du khách. Bánh cốm canh dẻo quánh bên ngoài, lớp nhân đậu xanh quyện dừa béo ngậy bên trong, thoang thoảng hương thơm tự nhiên của bưởi. \n[ ![com-2723-1652253987.jpg](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html)](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html)",
+      "thận trong lá sen có thể chế biến thành chè cốm, chả cốm, xôi cốm... Cốm\n\nngon nhất phải kể đến cốm Mễ Trì, cốm làng Vòng.\n\nh)  Kem  Tràng  Tiền. Dù  thưởng  thức  trong  mùa  đông  hay  mùa  hè,  bạn  sẽ\n\nphải thầm thương và ấn tượng hương vị khó quên. Khi ăn, bạn cảm nhận\n\nrõ kem tươi ngọt mát, tan ngay trong miệng còn vỏ quế thì thơm, giòn.\n\nNgoài những món ăn đặc tả trên, chúng ta còn phải kể đến vô số món tiếp theo",
+      "### Mua gì làm quà\nNgoài ô mai, bánh cốm, trà sen, du khách đến Hà Nội có thể tìm mua lụa ở làng Vạn Phúc hoặc gốm Bát Tràng để làm quà cho người thân và bạn bè.",
+      "**Bánh cuốn**\nBánh cuốn thể hiện sự khéo léo của đầu bếp Hà Nội, được ăn với nhiều loại nhân khác nhau như thịt lợn, tôm, gà băm nhỏ, trộn với mộc nhĩ. Món ăn thích hợp với bữa sáng nhẹ nhàng, kèm rau thơm tươi và nước chấm, thêm giò, chả quế, xúc xích. Thực khách có thể tùy gia giảm với ớt, chanh và tỏi.\nĐịa chỉ tham khảo: Bánh cuốn Bà Xuân, Bà Hoành.\n**Chả cá**\n![Chả cá. Ảnh: Michelin](https://vnexpress.net/5-mon-ngoai-pho-phai-thu-khi-den-ha-noi-4909492.html)\nChả cá. Ảnh: _Michelin_"
+    ],
+    "context_ids": [
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-10",
+      "news/article_01.md::chunk-77",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-11",
+      "news/article_01.md::chunk-73",
+      "news/article_03.md::chunk-15"
+    ],
+    "reference": "Cốm ngon nhất là cốm Mễ Trì và cốm làng Vòng; cốm được gói trong lá sen và có thể chế biến thành chè cốm, chả cốm, xôi cốm.",
+    "latency_s": 6.88
+  },
+  {
+    "question": "Vì sao văn hóa ẩm thực có vai trò quan trọng trong việc thu hút khách du lịch đến Hà Nội?",
+    "answer": "Văn hóa ẩm thực đóng vai trò quan trọng trong việc thu hút khách du lịch vì những lý do sau:\n\n* Giúp thực khách lấy lại sức khỏe để tham gia trọn vẹn và thưởng thức các nét đặc sắc trong chương trình du lịch [Document 1].\n* Giúp du khách thỏa mãn nhu cầu tìm hiểu, khám phá những tinh hoa nghệ thuật ẩm thực – nét đặc trưng nhất của văn hóa địa phương [Document 2].\n* Mang lại cho du khách cái nhìn toàn diện hơn về địa phương [Document 2].\n* Là cách để tìm hiểu sâu sắc hơn về hồn dân tộc và những nét đẹp trong phong cách ăn uống của mỗi dân tộc [Document 2].\n* Thu hút thực khách bốn phương đến tham quan, thưởng thức, đồng thời đem lại lợi ích kinh tế cao và phát huy, gìn giữ các giá trị nghệ thuật tinh túy do cha ông để lại [Document 3].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "lạ ở điểm mà mình đến. Mặt khác, việc thưởng thức những món ăn ngon cũng là dịp\n\nđể thực khách lấy lại sức khỏe cho cơ thể để tham gia trọn vẹn và thưởng thức những\n\nnét đặc sắc trong chương trình du lịch.\n\nVì vậy, muốn thu hút khách du lịch nước ngoài đến Hà Nội, một trong những\n\nđiều quan trọng là phải xây dựng văn hóa ẩm thực Hà Nội, biến nó trở thành một sản\n\nphẩm du lịch, một điểm hút du khách. Ẩm thực sẽ giúp du khách thỏa mãn nhu cầu",
+      "đến những món ăn bình dân, dung dị và đơn giản làm say mê lòng người. Những món\n\nngon Hà Nội đã đi  vào sách, vào thơ, vào  văn, đã khiến nhiều nhà  văn qua đó trở\n\nthành nổi tiếng như Thạch Lam, Băng Sơn.\n\n2.  Vai trò của văn hóa ẩm thực Hà Nội trong thu hút du khách đến Việt Nam\n\nẨm thực có vai trò vô cùng quan trọng đối với khách du lịch, dù họ đi du lịch\n\nở bất cứ nơi đâu, vào thời điểm nào. Văn hóa ẩm thực tại địa phương nơi đến của du",
+      "tìm hiểu, khám phá những tinh hoa nghệ thuật ẩm thực vì đây chính là nét đặc trưng\n\nnhất của nền văn hóa tại địa phương nơi mà họ sẽ đặt chân đến. Những món ăn đồ\n\nuống sẽ giúp cho họ có một cái nhìn toàn diện hơn về địa phương đó. Đồng thời, theo\n\ncác  chuyên  gia  du  lịch,  đây  cũng  là  cách  tìm  hiểu  sâu  sắc  hơn  về  hồn  dân  tộc,  về\n\nnhững nét đẹp trong phong cách ăn uống của mỗi dân tộc.\n\nViệc nghiên cứu tìm hiểu văn hóa ẩm thực vốn có của Hà Nội vào việc phát",
+      "khách trong nước và quốc tế yếu thích. Hà Nội đã nhiều lần được lọt vào danh sách\n\ntop các thành phố có nền ẩm thức hàng đầu châu Á. Bài viết này sẽ tình hiểu về thực\n\ntrạng nền văn hóa ẩm thức Hà thành, từ đó đề xuất những biện pháp hữu hiệu nhằm\n\nthu hút và giữ chân du khách đến với Hà Nội và Việt Nam.\n\nTừ khóa: Hà Nội, văn hóa ẩm thực, du lịch Việt Nam.\n\n1.  Giới thiệu về ẩm thực Hà Nội\n\nHà Nội không chỉ có nhiều danh lam thắng cảnh đẹp, mà từ xa xưa kinh đô",
+      "triển du lịch sẽ thu hút được thực khách bốn phương đến tham quan và thưởng thức,\n\nđem lại lợi ích kinh tế cao và phát huy, gìn giữ những giá trị nghệ thuật tinh túy mà\n\ncha ông ta để lại.\n\n3.  Kết luận\n\n\fViệc xây dựng một nền văn hóa ẩm thực và  nghiên cứu  về nền văn hóa ẩm\n\nthực vốn có của Hà Nội là thực sự cần thiết không chỉ để thu hút du khách đến với\n\nthủ đô ngàn năm Văn Hiến mà còn thu hút du khách đến với những thành phố lớn"
+    ],
+    "context_ids": [
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-16",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-14",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-17",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-2",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-18"
+    ],
+    "reference": "Qua việc thưởng thức món ăn, du khách hiểu được phong tục, tập quán, lối sống và cách hành xử của nơi đến, tạo ấn tượng tốt và làm chuyến đi có ý nghĩa; ẩm thực thỏa mãn nhu cầu tìm hiểu, khám phá tinh hoa văn hóa địa phương và giúp du khách phục hồi sức khỏe để tham gia trọn vẹn chương trình du lịch.",
+    "latency_s": 5.36
+  },
+  {
+    "question": "Tính đến tháng 3/2022, Hà Nội có bao nhiêu nhà hàng đạt chuẩn cao cấp?",
+    "answer": "Tính đến tháng 3/2022, Hà Nội có 21 nhà hàng đạt chuẩn cao cấp với nhiều nhà hàng đặc sản [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "phân bố đều khắp các quận, huyện. Tính đến tháng\n3/2022, Hà Nội có 21 nhà hàng đạt chuẩn cao cấp\nvới nhiều nhà hàng đặc sản. Ngoài ra, đây còn là\nnơi quy tụ nguồn nhân lực dồi dào, phong phú, chất\nlượng khá cao của khu vực miền Bắc. Với vị trí địa\nlý thuận lợi, là nơi trung chuyển đi tới nhiều vùng\nmiền khác, nhiều danh lam thắng cảnh, cùng món\năn ngon, Hà Nội trở thành nơi thu hút đa dạng\nkhách du lịch phù hợp với loại hình du lịch. Trong\nnhững năm gần đây, thành phố Hà Nội cũng như",
+      "108 SỐ6-Tháng 4/2022\n\n2.3.  Đánh giá chung về tình hình phát triển du\n\nlịch ẩm thực tại Hà Nội",
+      "Thăng Long đã nổi tiếng với tinh hoa ẩm thực phong phú, độc đáo thu hút nhiều du\n\nkhách đến thưởng thức. Hà Nội nhiều năm đã được lọt vào top các thủ đô ẩm thực có\n\nđồ ăn ngon nhất được trang Insider giới thiệu cho du khách sành ăn trên khắp thế giới\n\n[1]. Rất nhiều địa chỉ ẩm thực Hà Nội được lọt vào danh sách các nhà hàng phải tới\n\ntại Việt Nam. Ví dụ như, Bloomberg mới có bài giới thiệu top 12 nhà hàng ngon phải",
+      "Sự phát triển nguồn nhân lực: Hà Nội có một lực\nlượng nhân lực đông đảo và khá toàn diện, trong đó\nđội ngũ đầu bếp và công ty du lịch đóng vai trò\nquan trọng trong việc phát triển DLAT thành phố.\nPhát triển trình độ, tay nghề của cán bộ, nhân viên\nchất lượng cao trong lĩnh vực du lịch đã được đưa\nvào Đề án Giáo dục Quốc gia. Tuy nhiên, chât\nlượng của đội ngũ đầu bếp, nhân viên công ty lữ\nhành cung ứng dịch vụ không đồng đều, tập trung\ncác tay nghề giỏi, chất lượng cao ở hầu khắp các",
+      "Keywords: development, culinary tourism, Hanoi city.\n\n1 10 SÔ'6-Tháng 4/2022"
+    ],
+    "context_ids": [
+      "legal/am_thuc_ha_noi.md::chunk-14",
+      "legal/am_thuc_ha_noi.md::chunk-26",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-3",
+      "legal/am_thuc_ha_noi.md::chunk-23",
+      "legal/am_thuc_ha_noi.md::chunk-49"
+    ],
+    "reference": "Tính đến tháng 3/2022, Hà Nội có 21 nhà hàng đạt chuẩn cao cấp với nhiều nhà hàng đặc sản.",
+    "latency_s": 5.19
+  },
+  {
+    "question": "Phát triển du lịch ẩm thực tại Hà Nội hiện còn những hạn chế nào?",
+    "answer": "Việc phát triển du lịch ẩm thực tại Hà Nội hiện còn gặp các hạn chế sau:\n- Thị trường khách có khả năng chi trả cao còn ít [Document 5].\n- Cơ sở hạ tầng chưa thực sự đồng bộ [Document 5].\n- Các tuyến, điểm còn lẻ tẻ, cách xa nhau, gây khó khăn cho việc di chuyển và tiếp cận điểm đến [Document 5].\n- An ninh an toàn ở nhiều điểm du lịch đôi khi chưa đảm bảo [Document 5].\n- Sản phẩm du lịch còn đơn điệu, trùng lặp, chưa có sản phẩm đặc trưng [Document 5].\n- Việc kiểm soát chất lượng gặp nhiều khó khăn [Document 5].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "3.  Một sô đề xuất giải pháp và kiến nghị phát\n\ntriển du lịch ẩm thực tại Hà Nội",
+      "Tuy nhiên, việc phát triển DLAT tại Hà Nội\nvẫn còn gặp phải một số hạn chế. Cụ thể như: thị\ntrường khách có khả năng chi trả cao còn ít, cơ sở\nhạ tầng chưa thực sự đồng bộ. Các tuyến, điểm\ncòn lẻ tẻ, cách xa nhau, khó khăn cho di chuyển\nvà tiếp cận điểm đến, an ninh an toàn ở nhiều\nđiểm du lịch đôi khi chưa đảm bảo. Ngoài ra, sản\nphẩm du lịch còn đơn điệu, trùng lặp, chưa có sản\nphẩm đặc trưng, việc kiểm soát chất lượng gặp\nnhiều khó khăn,...\n\n3.  Một sô đề xuất giải pháp và kiến nghị phát",
+      "TẠP CHÍ CÔNG THƯƠNG\n\nNGHIÊN CỨU PHÁT TRIEN\nDU LỊCH ẨM THựC TẠI HÀ NỘI\n\n• LÃ TIẾN DŨNG\n\nTÓM TẮT:\n\nHà Nội là nơi hội tụ của những tinh hoa văn hóa của cả nước. Âm thực Hà Nội mang những\n\nnét đặc trưng riêng vô cùng hấp dẫn, thu hút khách du lịch. Tuy nhiên, trong quá trình phát triển,\nvẫn còn rất nhiều hạn chế trong quy hoạch, an toàn vệ sinh,... cản trở quá trình phát triển du lịch\nẩm thực (DLAT) tại Hà Nội. Với mục đích nghiên cứu nhằm xác định các điều kiện và vân đề",
+      "2.1.  Điều kiện phát triển du lịch ẩm thực tại\n\nHà Nội\n\nHà Nội có đầy đủ các điều kiện thuận lợi để\n\nKINH TÊ",
+      "DLAT tại Hà Nội trong bối cảnh hiện nay.\n\nTừ khóa: phát triển, du lịch ẩm thực, thành phố Hà Nội.\n\n1.  Một số vấn đề lý luận về phát triển du lịch\n\nẩm thực tại điểm đến\n\n1.1.  Một số khái niệm về du lịch ẩm thực tại\n\nđiểm đến"
+    ],
+    "context_ids": [
+      "legal/am_thuc_ha_noi.md::chunk-30",
+      "legal/am_thuc_ha_noi.md::chunk-29",
+      "legal/am_thuc_ha_noi.md::chunk-0",
+      "legal/am_thuc_ha_noi.md::chunk-12",
+      "legal/am_thuc_ha_noi.md::chunk-2"
+    ],
+    "reference": "Thị trường khách có khả năng chi trả cao còn ít; cơ sở hạ tầng chưa đồng bộ; các tuyến, điểm còn lẻ tẻ, cách xa nhau, khó di chuyển; an ninh an toàn ở nhiều điểm chưa đảm bảo; sản phẩm du lịch đơn điệu, trùng lặp, chưa có sản phẩm đặc trưng; kiểm soát chất lượng gặp nhiều khó khăn.",
+    "latency_s": 6.31
+  },
+  {
+    "question": "Khách du lịch quốc tế đến Hà Nội phần lớn đến từ những quốc gia nào?",
+    "answer": "Khách du lịch quốc tế đến Hà Nội phần lớn tới từ các nước Trung Quốc, Hàn Quốc và Nhật Bản [Document 1], [Document 5].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "Sự phát triển về khách du lịch: Tại các điểm du\nlịch tại Hà Nội hiện nay chưa có khách DLAT thực\nsự, mà chỉ mới là khách du lịch đại trà có định\nhướng muôn tìm hiểu văn hóa ẩm thực tại địa\nphương. Trong phạm vi nghiên cứu của bài viết,\ntạm coi đối tượng khách đến các điểm DLAT, thực\nhiện việc trải nghiệm văn hóa, ẩm thực tại Hà Nội\nlà các khách du lịch ẩm thực. Khách du lịch tới Hà\nNội rất lớn, khách quốc tế phần lớn tới từ các nước\nTrung Quốc, Hàn Quốc, Nhật Bản. Khách nội địa",
+      "Trung Quốc, Hàn Quốc, Nhật Bản. Khách nội địa\ntới thăm Hà Nội cũng chiếm tỷ lệ rất đông, đa phần\ncác khách du lịch đều có nhu cầu ăn uô'ng, trải\nnghiệm ẩm thực Hà Nội trong quá trình lưu trú.",
+      "khách trong nước và quốc tế yếu thích. Hà Nội đã nhiều lần được lọt vào danh sách\n\ntop các thành phố có nền ẩm thức hàng đầu châu Á. Bài viết này sẽ tình hiểu về thực\n\ntrạng nền văn hóa ẩm thức Hà thành, từ đó đề xuất những biện pháp hữu hiệu nhằm\n\nthu hút và giữ chân du khách đến với Hà Nội và Việt Nam.\n\nTừ khóa: Hà Nội, văn hóa ẩm thực, du lịch Việt Nam.\n\n1.  Giới thiệu về ẩm thực Hà Nội\n\nHà Nội không chỉ có nhiều danh lam thắng cảnh đẹp, mà từ xa xưa kinh đô",
+      "very popular among domestic and international tourists. Hanoi has repeatedly been\n\nincluded  in  the  list  of  top  cities  with  fine  Asian  food.  This  article  will  seek  to\n\nunderstand the reality of Hanoi's culinary culture, and propose effective measures to\n\nattract and retain visitors to Hanoi and Vietnam.\n\nKey Words: Hanoi, culinary culture, tourism in Vietnam.\n\nTóm tắt: Hà Nội được coi là thủ đô ẩm thực của cả nước với những món ăn được du",
+      "lạ ở điểm mà mình đến. Mặt khác, việc thưởng thức những món ăn ngon cũng là dịp\n\nđể thực khách lấy lại sức khỏe cho cơ thể để tham gia trọn vẹn và thưởng thức những\n\nnét đặc sắc trong chương trình du lịch.\n\nVì vậy, muốn thu hút khách du lịch nước ngoài đến Hà Nội, một trong những\n\nđiều quan trọng là phải xây dựng văn hóa ẩm thực Hà Nội, biến nó trở thành một sản\n\nphẩm du lịch, một điểm hút du khách. Ẩm thực sẽ giúp du khách thỏa mãn nhu cầu"
+    ],
+    "context_ids": [
+      "legal/am_thuc_ha_noi.md::chunk-17",
+      "legal/am_thuc_ha_noi.md::chunk-18",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-2",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-1",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-16"
+    ],
+    "reference": "Khách quốc tế đến Hà Nội phần lớn đến từ Trung Quốc, Hàn Quốc và Nhật Bản.",
+    "latency_s": 6.06
+  },
+  {
+    "question": "Quán phở bò Ấu Triệu được Michelin giới thiệu có đặc điểm gì và nên đến lúc nào?",
+    "answer": "Quán phở bò Ấu Triệu có các đặc điểm:\n- Quán không có biển hiệu, nằm bên hông Nhà Thờ Lớn và thường đông người tới ăn mỗi sáng, chủ yếu là người địa phương [Document 1, Document 5].\n- Khách ngồi ăn ngoài vỉa hè [Document 1].\n- Quán mang phong cách phở Nam Định với nước hầm xương bò nấu trong 10 tiếng, có các lựa chọn là thịt bò tái chín và gân bò [Document 2].\n- Đây là quán ăn nằm trong danh sách Michelin Bib Gourmand [Document 5].\n\nThời gian nên đến:\n- Quán bán vào buổi sáng và không bán buổi trưa [Document 1, Document 2]. \n- Tốt nhất hãy tới đây trước 9h30 [Document 2].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "Khách ngồi ngoài vỉa hè ăn phở Ấu Triệu. Ảnh: _Thế Bằng_\nNếu chưa đến đây lần nào, du khách có thể khó tìm vì quán không biển hiệu. \"Nhưng đừng ngại vì chỉ cần đến con phố bên cạnh nhà thờ thấy một địa điểm luôn đông người tới ăn mỗi sáng, chủ yếu là người địa phương, đặc biệt dịp cuối tuần, du khách đã biết mình đến đúng địa chỉ\", Michelin viết.",
+      "**Ngày 1**\n_Buổi sáng_\nHãy thỏa mãn cơn thèm ăn bằng cách dạo một vòng hồ Hoàn Kiếm, trung tâm thủ đô, trước khi vào phố cổ và thưởng thức phở bò tại phố Ấu Triệu. Đây là quán ăn trong danh sách [Michelin Bib Gourmand](https://vnexpress.net/5-quan-an-moi-duoc-michelin-gioi-thieu-o-ha-noi-4760926.html). Quán nằm bên hông Nhà Thờ Lớn.\n![Khách ngồi ngoài vỉa hè ăn phở Ấu Triệu. Ảnh: Thế Bằng](https://vnexpress.net/hai-ngay-o-ha-noi-thuong-thuc-mon-an-duong-pho-4786518.html)",
+      "Quán mang phong cách phở Nam Định, nước hầm xương bò được nấu trong 10 tiếng để tạo ra vị đậm đà với lựa chọn là thịt bò tái chín và gân bò. Quán không bán buổi trưa, tốt nhất hãy tới đây trước 9h30.\n_Bữa trưa_\nSau bữa sáng du khách có thể ghé thăm nhà thờ, tìm một quán cà phê ở khu vực xung quanh để ngồi thư giãn. Khi cơn đói quay trở lại, hãy lang thang vẫn ở khu phố cổ để tìm một món ăn khác đặc trưng Việt Nam.",
+      "[Miến lươn Đông Thịnh](https://vnexpress.net/quan-luon-40-nam-trong-pho-co-ha-noi-4776874.html), quán ăn hơn 40 năm tuổi vào danh sách món \"ngon, giá hợp lý\" của Michelin 2024 là một gợi ý. Du khách có thể yêu cầu miến nước hoặc miến trộn, cùng với các lựa chọn khác là súp hay cháo. Lươn giòn là đặc sản ở đây, thích hợp để bổ sung năng lượng.",
+      "**Bún riêu**\nBún riêu Hà Nội gồm những nguyên liệu địa phương và truyền thống như cua đồng, đậu phụ và thịt lợn. Món ăn có nước dùng đậm đà, từ cua giã nhuyễn (cả vỏ), sau đó lọc và nấu với cà chua, mắm tôm, và đôi khi cả đậu phụ hoặc thịt lợn. Món ăn được đầu bếp trẻ của Michelin Guide 2023 đề xuất, được đánh giá \"đậm đà so với nhiều món ăn khác ở Hà Nội.\n**Tâm Anh** (theo _Michelin Guide_)\n[ Trở lại Du lịchTrở lại Du lịch](https://vnexpress.net/du-lich)"
+    ],
+    "context_ids": [
+      "news/article_02.md::chunk-11",
+      "news/article_02.md::chunk-10",
+      "news/article_02.md::chunk-12",
+      "news/article_02.md::chunk-13",
+      "news/article_03.md::chunk-17"
+    ],
+    "reference": "Quán ở 34 phố Ấu Triệu, bên hông Nhà Thờ Lớn, nằm trong danh sách Michelin Bib Gourmand, không có biển hiệu; mang phong cách phở Nam Định với nước hầm xương bò nấu 10 tiếng, có thịt bò tái chín và gân bò. Quán không bán buổi trưa nên nên đến trước 9h30.",
+    "latency_s": 5.6
+  },
+  {
+    "question": "Theo chuyên gia Michelin, ngoài phở du khách nên thử những món nào khi đến Hà Nội?",
+    "answer": "Theo chuyên gia Michelin, ngoài phở, du khách khi đến Hà Nội nên thử các món như bún chả, bánh cuốn, cơm rang, bún riêu và chả cá [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "#  5 món ngoài phở phải thử khi đến Hà Nội \nNgoài phở đã quá nổi tiếng, du khách đến Hà Nội nên thử các món ăn như bún chả, bánh cuốn, cơm rang, bún riêu, chả cá, theo chuyên gia Michelin.",
+      "#  Hai ngày ở Hà Nội thưởng thức món ăn đường phố \nCẩm nang Michelin giới thiệu các quán ăn và món ăn đường phố với mức giá hợp lý cho du khách tới Hà Nội trong hai ngày.\nChuyên gia viết về ẩm thực Việt Nam của Michelin Guide, Joshua Zukas nhận xét Hà Nội là thiên đường của ẩm thực đường phố. Nhiều món ăn nổi tiếng đều bắt nguồn từ Hà Nội và lan rộng.\n\"Người dân Thủ đô vốn kén chọn và khó tính trong việc ăn uống. Và phố cổ là nơi tìm đến của những người sành ăn\", Joshua Zukas viết.",
+      "Thực khách có thể tìm được nhiều đồ ăn ngon, từ các quán đường phố, quán ăn nhỏ của gia đình đến những quán sang trọng. 5 món dưới đây người từ nơi khác đến Hà Nội không nên bỏ qua.\n**Bún chả**\n![Bún chả miếng và băm ở Tuyết Bún chả 34. Ảnh: Michelin](https://i1-dulich.vnecdn.net/2025/07/03/buncha-1751512447-4501-1751516229.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=cOFadApiCrkJfzx9SJAygQ)\nBún chả miếng và băm ở Tuyết Bún chả 34. Ảnh: _Michelin_",
+      "**Bánh cuốn**\nBánh cuốn thể hiện sự khéo léo của đầu bếp Hà Nội, được ăn với nhiều loại nhân khác nhau như thịt lợn, tôm, gà băm nhỏ, trộn với mộc nhĩ. Món ăn thích hợp với bữa sáng nhẹ nhàng, kèm rau thơm tươi và nước chấm, thêm giò, chả quế, xúc xích. Thực khách có thể tùy gia giảm với ớt, chanh và tỏi.\nĐịa chỉ tham khảo: Bánh cuốn Bà Xuân, Bà Hoành.\n**Chả cá**\n![Chả cá. Ảnh: Michelin](https://vnexpress.net/5-mon-ngoai-pho-phai-thu-khi-den-ha-noi-4909492.html)\nChả cá. Ảnh: _Michelin_",
+      "thử khi du lịch thế giới, trong đó có Chả cá Lã Vọng của Việt Nam. Báo Telegraph\n\n(Anh) đã xếp Hà Nội đứng thứ hai trong mười thành phố có nền ẩm thực hấp dẫn nhất\n\nthế giới. [2]. Sau đây là một số đặc sản ẩm thực của Hà Nội được tác giả bài viết này\n\ncũng người từng sống ở Hà Nội những năm tuổi thơ ấu khuyến cáo du khách đặt chân\n\nđến đây bắt buộc phải thưởng thức [3, 4]:\n\na)  Phở nước. Tô phở nóng hổi, húp xì xụp nước dùng thơm ngon, đậm đà"
+    ],
+    "context_ids": [
+      "news/article_03.md::chunk-9",
+      "news/article_02.md::chunk-8",
+      "news/article_03.md::chunk-11",
+      "news/article_03.md::chunk-15",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-4"
+    ],
+    "reference": "Năm món: bún chả, cơm rang, bánh cuốn, chả cá và bún riêu.",
+    "latency_s": 7.1
+  },
+  {
+    "question": "Hương vị ẩm thực Hà Nội khác gì so với các món ăn miền Nam?",
+    "answer": "Ẩm thực Hà Nội dựa trên việc sử dụng hài hòa vị ngọt, mặn, chua và umami (ngọt từ thịt), làm nổi bật hương vị tự nhiên của nguyên liệu [Document 1]. Trong khi đó, các món ăn miền Nam thường có vị ngọt và cay [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "Hà Nội nổi tiếng với ẩm thực đường phố, mang đến một kho tàng hương vị phong phú, thu hút du khách khắp thế giới. Ẩm thực Hà Nội là sự cân bằng tinh tế giữa các hương vị, khác biệt so với phần còn lại của Việt Nam. Các món ăn miền Nam thường ngọt và cay trong khi đồ ăn Hà Nội dựa trên việc sử dụng hài hòa vị ngọt, mặn, chua và umami (ngọt từ thịt), làm nổi bật hương vị tự nhiên của nguyên liệu.",
+      "đi xa không thể quên và du khách ghé đến đôi lần không thể không thấy nhớ bởi ẩm\n\nthực Hà Nội có nhiều món ngon với hương vị đặc sắc mà ít nơi có thể sánh được. Ẩm\n\n\fthực nơi đây được đánh giá cao vì mỗi món mang một đặc trưng riêng biệt, ngon và\n\nlành, thanh cảnh và sạch sẽ, tinh tế trong từng loại gia vị, tinh vi trong từng khâu chế\n\nbiến và trưng bày. Bên cạnh những món ăn sang trọng và cầu kỳ không thể không kể",
+      "### Quán xá\nẨm thực Hà Thành kết hợp hoàn hảo những hương vị chua, cay, mặn, ngọt và thể hiện chính hình ảnh của thành phố ngàn năm văn hiến: sôi động, trầm mặc, cuốn hút và hấp dẫn. Bạn có thể dễ dàng thưởng thức đặc sản Hà Nội tại các quán vỉa hè bên đường như phở bò, bún chả, bánh mì... \n> Ăn gì",
+      "còn lại trên cả nước. Bởi vì những món ăn ngon, đặc trưng cho từng vùng miền, và\n\nđặc biệt là thủ đô, luôn có sức lan tỏa rất mãnh liệt. Trong thời kỳ hội nhập và toàn\n\ncầu hóa ngày nay, những món ăn đặc sản xứ sở Hà Thành đã xuất hiện khắp các vùng\n\nmiền trên cả nước như TP. Hồ Chí Minh, Đà Nẵng, Hạ Long, Nha Trang, Vũng Tàu\n\nvà các thành phố du lịch trong nước nổi tiếng khác. Đến từng địa phương, các món\n\năn ngon thuần túy của Hà Nội cũng phải thay đổi đôi chút cho hợp với khẩu vị của",
+      "cư dân bản địa và du khách đến từ thập phương. Sự thích nghi hết sức linh hoạt này\n\nđã làm gia tăng mức độ và tốc độ bành trướng của đồ ăn xứ sở Hà Thành, không chỉ\n\ntrên khắp các vùng miền đất nước, mà còn trên khắp thế giới nơi có người Việt đến\n\ncư trú và làm ăn sinh sống như Mỹ, các nước châu Âu, Hàn Quốc, Nhật Bản, Úc…\n\nĐiều này  một phần tô thêm  vẻ đẹp  và  khẳng  định vị thế của ẩm thực Hà Nội trên\n\ntrường quốc tế. Có thế nói ẩm thực Hà Thành có đầy đủ sức mạnh và sự tinh tế cần"
+    ],
+    "context_ids": [
+      "news/article_03.md::chunk-10",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-13",
+      "news/article_01.md::chunk-53",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-19",
+      "legal/Hanoi_Culture_of_Cuisine_as_Factor_Attracting_Tourists_to_Vietnam.md::chunk-20"
+    ],
+    "reference": "Món miền Nam thường ngọt và cay, còn đồ ăn Hà Nội dựa trên sự hài hòa giữa vị ngọt, mặn, chua và umami, làm nổi bật hương vị tự nhiên của nguyên liệu.",
+    "latency_s": 6.53
+  },
+  {
+    "question": "Thời gian nào lý tưởng nhất để du lịch Hà Nội?",
+    "answer": "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4 [Document 1].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](https://vnexpress.net/thang-9-dac-san-mua-thu-cham-ngo-ha-noi-3464955.html) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng..",
+      "Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán đặc sản địa phương, xe máy luồn lách trên đường đông đúc... là những ấn tượng đầu tiên của du khách về Hà Nội. Với nhiều người, Hà Nội có tất cả những thứ thú vị để khám phá nơi đây theo cách riêng của mình.\n### Hà Nội mùa nào đẹp",
+      "Nằm ngay trung tâm Hà Nội, hồ Hoàn Kiếm thu hút du khách bởi sự thoáng đãng, trong lành. Để cảm nhận hết nhịp sống bên hồ, khung thời gian tuyệt nhất cho du khách là từ 5h-7h sáng.\nHà Nội bước vào hè, nền nhiệt cũng dần tăng cao, khoảng thời gian này là lúc người dân thủ đô bắt đầu một ngày mới. Du khách sẽ dễ dàng nhận thấy một Hà Nội khác biệt nhẹ nhàng, yên bình với các nhóm tập thể dục sớm, tiếng nhạc du dương, không khí dịu mát.",
+      "Thứ ba, 12/4/2022, 00:18 (GMT+7)\n  * Điều hướng nhanh\n  * [Hà Nội mùa nào đẹp](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html#lmjvsl44h6k)\n  * [Di chuyển](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html#1z1lnwgcryl)\n  * [Lưu trú](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html#xyhmf4qtp2e)\n  * [Khám phá](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html#u7ydebxn7n)\n  * [Quán xá](https://vnexpress.net/cam-nang-du-lich-ha-noi-4459188.html#7mczdeqc0fe)",
+      "Dịp lễ Giỗ Tổ Hùng Vương và kỳ nghỉ 30-4 và 1-5 năm nay chỉ cách nhau hai ngày với thời gian nghỉ dài là thời điểm lý tưởng cho du khách lên kế hoạch nghỉ ngơi, nạp lại năng lượng. Trong các điểm đến thành phố, [Hà Nội](https://tuoitre.vn/5-diem-di-choi-xin-so-khong-so-dong-nguoi-dip-le-30-4-quanh-ha-noi-20220424104309214.htm \"Hà Nội\") là nơi không thể bỏ qua."
+    ],
+    "context_ids": [
+      "news/article_01.md::chunk-7",
+      "news/article_01.md::chunk-6",
+      "news/article_04.md::chunk-43",
+      "news/article_01.md::chunk-4",
+      "news/article_04.md::chunk-40"
+    ],
+    "reference": "Mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4.",
+    "latency_s": 5.11
+  },
+  {
+    "question": "Muốn ngắm hoàng hôn ở Hà Nội thì nên đến đâu và đứng ở vị trí nào?",
+    "answer": "Muốn ngắm hoàng hôn ở Hà Nội, bạn nên đến hồ Tây [Document 1]. Những vị trí đẹp nhất để bắt trọn khoảnh khắc này là đường Thanh Niên (đoạn gần chùa Trấn Quốc), phố Từ Hoa và phố Quảng Bá [Document 5].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "## Đạp xe dạo hồ Tây ngắm hoàng hôn\n[![hà nội - Ảnh 5.](https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/4/12/base64-17759718982902085407724.jpeg)](https://cdn2.tuoitre.vn/471584752817336320/2026/4/12/base64-17759718982902085407724.jpeg)\nHoàng hôn thơ mộng bên hồ Tây - Ảnh: M.PHÚC\nNgắm hoàng hôn ngay tại Hà Nội, nghe có vẻ lạ, nhưng đây là trải nghiệm hoàn toàn khả thi và điểm ngắm hoàng hôn đẹp nhất trong thành phố là hồ Tây.",
+      "Bên hồ nước rộng mênh mông, khoảnh khắc Mặt trời đỏ rực dần khuất sau những dãy nhà cao tầng phía xa sẽ hắt lên mặt hồ một màu lấp lánh, tuyệt đẹp. Những vị trí đẹp nhất để bắt trọn khoảnh khắc này là đường Thanh Niên (đoạn gần chùa Trấn Quốc), phố Từ Hoa và phố Quảng Bá.\nTrước khi dừng chân ngắm hoàng hôn, bạn có thể lựa chọn đạp xe quanh hồ, ăn kem hồ Tây và thưởng thức bánh tôm đặc sản.\n## Đi chợ đêm",
+      "**Ngắm toàn cảnh Hà Nội từ trên cao :**Đến Hà Nội, bạn không thể bỏ qua Đài quan sát Lotte nằm trên đường Liễu Giai, bởi đây là nơi có thể phóng tầm mắt nhìn ngắm toàn cảnh Thủ đô từ tầng 65. Đài quan sát làm từ kính trong suốt nên bạn có thể chụp ảnh check-in sáng tạo ở bất cứ góc nào. Đài quan sát mở cửa từ 9h đến hết ngày.",
+      "## Cà phê phố cổ\nThật là thiếu sót nếu không dành thời gian la cà cà phê, quán xá. Hà Nội có nhiều quán cà phê với gu đa dạng từ nhà cổ hoài niệm, hiện đại đến nhẹ nhàng nàng thơ.\nTại khu vực phố cố, nhiều quán cà phê ngay trong những ngôi nhà cổ trăm tuổi là gợi ý cho những ai thích hoài niệm, yên tĩnh. \nNgoài ra, du khách trẻ có thể ghé các quán cà phê bên hồ Tây, vườn hoa Lý Tự Trọng để vừa thưởng thức đồ uống ngon, vừa check-in đúng điệu.\n## Đạp xe dạo hồ Tây ngắm hoàng hôn",
+      "Nằm ngay trung tâm Hà Nội, hồ Hoàn Kiếm thu hút du khách bởi sự thoáng đãng, trong lành. Để cảm nhận hết nhịp sống bên hồ, khung thời gian tuyệt nhất cho du khách là từ 5h-7h sáng.\nHà Nội bước vào hè, nền nhiệt cũng dần tăng cao, khoảng thời gian này là lúc người dân thủ đô bắt đầu một ngày mới. Du khách sẽ dễ dàng nhận thấy một Hà Nội khác biệt nhẹ nhàng, yên bình với các nhóm tập thể dục sớm, tiếng nhạc du dương, không khí dịu mát."
+    ],
+    "context_ids": [
+      "news/article_04.md::chunk-49",
+      "news/article_04.md::chunk-50",
+      "news/article_01.md::chunk-45",
+      "news/article_04.md::chunk-48",
+      "news/article_04.md::chunk-43"
+    ],
+    "reference": "Điểm ngắm hoàng hôn đẹp nhất là hồ Tây; vị trí đẹp nhất là đường Thanh Niên (đoạn gần chùa Trấn Quốc), phố Từ Hoa và phố Quảng Bá.",
+    "latency_s": 7.68
+  },
+  {
+    "question": "Bún chả được nhắc đến như thế nào trong các nguồn, và có thể ăn bún chả ở những quán nào?",
+    "answer": "Bún chả được nhắc đến là món ăn phổ biến vào bữa trưa, là biểu tượng của ẩm thực đường phố Hà Nội [Document 1, Document 2, Document 3, Document 5]. Món ăn này là sự kết hợp giữa thịt lợn nướng (thái miếng hoặc băm), bún, rau sống và nước mắm pha chua ngọt [Document 5]. Chả ăn bún của người Hà Nội được tẩm ướp cầu kỳ hơn so với món bún thịt nướng ở miền Nam và miền Trung [Document 1]. Khi ăn, thực khách chấm bún vào bát nước mắm đã pha sẵn có đựng thịt nướng, ăn kèm rau sống hoặc dưa góp [Document 5].\n\nCác địa chỉ quán bún chả được đề cập bao gồm:\n- Các quán ở Hàng Mã, Hàng Đồng, Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành, và bún chả kẹp tre ở chợ Bưởi, chợ Đồng Xuân [Document 1].\n- Tuyết Bún Chả 34 (trong danh sách Bib Gourmand), Bún chả Ta, bún chả Chan, bún chả Hàng Quạt [Document 2, Document 3].",
+    "retrieval_source": "dense",
+    "contexts": [
+      "_Bún chả_ - món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán [bún chả](https://vnexpress.net/bun-cha-nong-mon-qua-dau-dong-giua-long-ha-noi-3312047.html) ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội.",
+      "Bún chả là biểu tượng của ẩm thực đường phố Hà Nội, là sự kết hợp giữa thịt lợn nướng (thái miếng hoặc băm), bún, rau sống và nước mắm pha chua ngọt. Đến một quán bún chả, thực khách sẽ thấy ngay mùi thơm ngào ngạt của thịt nướng tại chỗ. Thịt được để trong bát nước mắm đã pha sẵn. Khi dùng, hãy chấm bún vào nước và ăn kèm rau sống hay dưa góp cho đỡ ngán.",
+      "Địa chỉ tham khảo: Bún chả Tuyết 34, Bún chả Ta, bún chả Chan, [bún chả Hàng Quạt](https://vnexpress.net/quan-bun-cha-25-nam-trong-ngo-nho-luon-dong-khach-4606312.html)\n**Cơm rang**",
+      "Chả cá. Ảnh: _Michelin_\nChả cá bắt nguồn từ một địa chỉ trong khu phố cổ Hà Nội. Cá được thái thành miếng vuông, ướp với nghệ, kết hợp rau thì là tươi, hành, rồi ăn với đậu phộng và bún, thêm mắm tôm nếu thích. Món ăn được làm nóng ngay tại bàn. Do tự chế biến nên thực khách có thể chọn cá chín già hay vừa phải để phù hợp khẩu vị.\nĐịa chỉ tham khảo: Chả cá Thăng Long, Anh Vũ\n**Bún riêu**",
+      "_Bữa trưa_\nBún chả là món ăn trưa phổ biến và được nhiều người Hà Nội yêu thích. Tuyết Bún Chả 34, trong danh sách Bib Gourmand, phục vụ những phần ăn phong phú với các loại chả miếng, chả băm, nem, kèm rau sống.\n![Bún chả và nem ở Tuyết Bún Chả 34. Ảnh: Migo](https://vnexpress.net/hai-ngay-o-ha-noi-thuong-thuc-mon-an-duong-pho-4786518.html)\nBún chả và nem ở Tuyết Bún Chả 34. Ảnh: _Migo_"
+    ],
+    "context_ids": [
+      "news/article_01.md::chunk-58",
+      "news/article_03.md::chunk-12",
+      "news/article_03.md::chunk-13",
+      "news/article_03.md::chunk-16",
+      "news/article_02.md::chunk-19"
+    ],
+    "reference": "Bún chả là biểu tượng ẩm thực đường phố Hà Nội gồm thịt lợn nướng (miếng hoặc băm), bún, rau sống và nước mắm chua ngọt, thường ăn vào bữa trưa; từng được ông Obama thưởng thức tại quán Hương Liên. Các quán gợi ý gồm Tuyết Bún Chả 34 (34 Hàng Than, Bib Gourmand), bún chả Ta, bún chả Chan, bún chả Hàng Quạt, bún chả ngõ Huyện, và các quán ở Hàng Mã, Hàng Đồng.",
+    "latency_s": 5.84
+  }
+]
